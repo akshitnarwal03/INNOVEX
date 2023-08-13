@@ -9,7 +9,7 @@ const Home = () => {
             <div className="text-white pt-12 pl-7 bg-sky-300 pb-20">
                 <h1 className="font-bold lg:text-6xl md:text-4xl">Boost Your Business Growth</h1>
                 <h1 className="font-bold lg:text-6xl md:text-4xl">With Custom Solutions</h1>
-                <h1 className="font-bold lg:text-6xl md:text-4xl">By ABCD</h1>
+                <h1 className="font-bold lg:text-6xl md:text-4xl">By INNOVEX</h1>
                 <p className="lg:text-2xl pt-9 pb-12">
                     Our company provides state of the art customised  <br /> AI Based Custom Industrial Solution to Businesses <br /> that helps boost growth by giving edge in terms <br /> of lastest technology.
                 </p>
